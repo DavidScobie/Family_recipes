@@ -1,7 +1,7 @@
 #pizza base
 
 
-##Ingrediants
+##Ingredients
 -4 cup of flour
 -dry yeast
 -teaspoon of salt
